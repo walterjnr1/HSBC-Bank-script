@@ -21,10 +21,7 @@ include 'header2.php';
 
 		 <li class="treeview"> <a href="#"> <i class="fa fa-user-circle-o"></i> <span>User</span> <span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span> </a>
           <ul class="treeview-menu">
-
-            <li><a href="add-user.php"><i class="fa fa-angle-right"></i>New User</a></li>
             <li><a href="user-record.php"><i class="fa fa-angle-right"></i>Manage User</a></li>
-            <li><a href="edit-profile.php"><i class="fa fa-angle-right"></i>Edit Profile</a></li>
 			<li><a href="changepassword.php"><i class="fa fa-angle-right"></i>Change Password</a></li>
 
           </ul>
